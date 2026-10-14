@@ -1,7 +1,5 @@
 # STM32-l476rg-BME280
 
-# STM32-L476RG-BME280
-
 A driver for the Bosch BME280 temperature, humidity and pressure sensor,
 written for the STM32 NUCLEO-L476RG board using STM32CubeIDE and the STM32 HAL library.
 
