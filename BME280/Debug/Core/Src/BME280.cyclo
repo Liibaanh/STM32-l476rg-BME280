@@ -1,0 +1,9 @@
+../Core/Src/BME280.c:32:6:BME280_SPI_Write	1
+../Core/Src/BME280.c:46:9:BME280_SPI_Read	1
+../Core/Src/BME280.c:58:6:BME280_SPI_ReadMulti	1
+../Core/Src/BME280.c:71:6:TrimRead	1
+../Core/Src/BME280.c:98:5:BME280_config	4
+../Core/Src/BME280.c:143:9:BME280_compensate_T_int32	1
+../Core/Src/BME280.c:181:10:BME280_compensate_P_int32	3
+../Core/Src/BME280.c:214:10:bme280_compensate_H_int32	1
+../Core/Src/BME280.c:234:6:BME280_Measure	5
